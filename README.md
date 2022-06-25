@@ -1,2 +1,2 @@
-# Pluralsight Clone by Awesome Ojumu
-A Pluralsight clone with HTML and CSS 
+# Pluralsight sign up Clone by Awesome Ojumu
+A Pluralsight SignUp page clone with HTML and CSS 
